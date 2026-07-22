@@ -1,0 +1,472 @@
+{
+  "01 ENERGY (ru).txt": {
+    "document_id": "2d288301-38e2-4006-bebd-ccc60d75f7c6",
+    "json_file": "01 ENERGY (ru).json",
+    "total_chunks": 19
+  },
+  "01 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "4caf34ee-dc14-4676-a471-0f1ad4dbc174",
+    "json_file": "01 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 18
+  },
+  "02 ENERGY (ru).txt": {
+    "document_id": "1f496616-2cbb-49bd-aefa-864d3c754404",
+    "json_file": "02 ENERGY (ru).json",
+    "total_chunks": 26
+  },
+  "02 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "310e86b6-7856-432a-a1b7-9ffc1ca6707a",
+    "json_file": "02 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 15
+  },
+  "03 ENERGY (ru).txt": {
+    "document_id": "59c3887b-dcba-47d6-ad2b-cf9bf102f892",
+    "json_file": "03 ENERGY (ru).json",
+    "total_chunks": 75
+  },
+  "03 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "cb167f52-cf9f-4a42-9c3a-a172cd384dd0",
+    "json_file": "03 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 30
+  },
+  "04 ENERGY (ru).txt": {
+    "document_id": "4f191efc-14f7-4da7-99e6-c379d27b73f5",
+    "json_file": "04 ENERGY (ru).json",
+    "total_chunks": 69
+  },
+  "04 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "1750c083-24a6-4f7d-ba1c-0d70b5ff5a28",
+    "json_file": "04 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 31
+  },
+  "05 ENERGY (ru).txt": {
+    "document_id": "62890736-9767-49d6-b8de-e25bc9154ca3",
+    "json_file": "05 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "05 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "4b250311-0261-4e5e-be07-6fa8e43e5d11",
+    "json_file": "05 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 28
+  },
+  "06 ENERGY (ru).txt": {
+    "document_id": "7d891f1d-286b-40e5-a17c-43bb526e9442",
+    "json_file": "06 ENERGY (ru).json",
+    "total_chunks": 49
+  },
+  "06 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "041aa342-c9b4-4703-a07b-b6b4a4c56bec",
+    "json_file": "06 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 32
+  },
+  "07 ENERGY (ru).txt": {
+    "document_id": "5c473e6e-2fe1-49e9-849c-a1fff5a8c484",
+    "json_file": "07 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "07 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "ab36f73d-7b91-44d5-b715-c17315630623",
+    "json_file": "07 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 29
+  },
+  "08 ENERGY (ru).txt": {
+    "document_id": "6c24750f-82b2-4f62-b0d8-46138e1aefbd",
+    "json_file": "08 ENERGY (ru).json",
+    "total_chunks": 48
+  },
+  "08 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "09357acf-d627-4e06-b114-fd6252081658",
+    "json_file": "08 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 28
+  },
+  "09 ENERGY (ru).txt": {
+    "document_id": "4ed8d8bf-e097-4785-a08a-3c0bd150d39f",
+    "json_file": "09 ENERGY (ru).json",
+    "total_chunks": 43
+  },
+  "09 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "a6a2c918-a121-4349-92e8-56088d82eb2f",
+    "json_file": "09 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 30
+  },
+  "10 ENERGY (ru).txt": {
+    "document_id": "4a6787e9-c941-4f59-8745-1f1bdf7f409c",
+    "json_file": "10 ENERGY (ru).json",
+    "total_chunks": 49
+  },
+  "10 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "0f039484-9c6d-42b5-8423-bc5ad6df1935",
+    "json_file": "10 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 29
+  },
+  "11 ENERGY (ru).txt": {
+    "document_id": "539fc9c0-2529-4639-be72-dd327e37ec74",
+    "json_file": "11 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "11 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "51a6a966-84a7-44ec-afd4-4b65302a47c0",
+    "json_file": "11 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 29
+  },
+  "12 ENERGY (ru).txt": {
+    "document_id": "81a07252-9780-40d9-ad17-08ace99e7d8f",
+    "json_file": "12 ENERGY (ru).json",
+    "total_chunks": 44
+  },
+  "12 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "5336e3e7-850a-4561-b0af-da9045f1998a",
+    "json_file": "12 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 30
+  },
+  "13 ENERGY (ru).txt": {
+    "document_id": "b8df3b06-37ba-435c-803f-4535ef800e78",
+    "json_file": "13 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "13 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "5b68b97e-39e0-426b-91a3-12c94783ad8f",
+    "json_file": "13 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 31
+  },
+  "14 ENERGY (ru).txt": {
+    "document_id": "b9fc6f33-06b3-4566-8f41-8efa8a0be296",
+    "json_file": "14 ENERGY (ru).json",
+    "total_chunks": 47
+  },
+  "14 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "bde3e211-0f47-4e3d-b9f0-9c0890f91611",
+    "json_file": "14 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 30
+  },
+  "15 ENERGY (ru).txt": {
+    "document_id": "d4ba679c-16b0-4cb2-a8c4-336fcdf7190e",
+    "json_file": "15 ENERGY (ru).json",
+    "total_chunks": 44
+  },
+  "15 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "2885fe5a-9fd6-4c76-9ddb-eefc341a4a0a",
+    "json_file": "15 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 33
+  },
+  "16 ENERGY (ru).txt": {
+    "document_id": "ac43f189-7a3c-4d99-913a-3c4b4fbd9f74",
+    "json_file": "16 ENERGY (ru).json",
+    "total_chunks": 43
+  },
+  "16 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "34ab0c3f-5dac-4664-904a-215b9520d648",
+    "json_file": "16 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 29
+  },
+  "17 ENERGY (ru).txt": {
+    "document_id": "3d3963d0-0759-445e-aa81-04da9c789ef1",
+    "json_file": "17 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "17 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "114e0949-8fa5-40ea-bf09-af8e457d680e",
+    "json_file": "17 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 28
+  },
+  "18 ENERGY (ru).txt": {
+    "document_id": "231ed2db-5cc2-472e-bad4-b2ac437af6c9",
+    "json_file": "18 ENERGY (ru).json",
+    "total_chunks": 43
+  },
+  "18 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "4a481704-07cb-4534-9b6d-442d746325b3",
+    "json_file": "18 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 30
+  },
+  "19 ENERGY (ru).txt": {
+    "document_id": "ae7acea7-a136-4ee4-8bb5-0daa4cd81d44",
+    "json_file": "19 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "19 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "0e0fb5ac-2f71-4ade-8b06-9341bba5c278",
+    "json_file": "19 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 32
+  },
+  "20 ENERGY (ru).txt": {
+    "document_id": "dd5e5872-b8e3-4167-b2a4-ecf6470d1aba",
+    "json_file": "20 ENERGY (ru).json",
+    "total_chunks": 42
+  },
+  "20 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "3d77b072-da67-4da0-b780-115181738270",
+    "json_file": "20 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 28
+  },
+  "21 ENERGY (ru).txt": {
+    "document_id": "3d08ce5e-721f-4bd6-89a0-463692cbc1ad",
+    "json_file": "21 ENERGY (ru).json",
+    "total_chunks": 45
+  },
+  "21 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "adea6974-c6ba-4bba-a13e-e47d13b41ec9",
+    "json_file": "21 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 33
+  },
+  "22 ENERGY (ru).txt": {
+    "document_id": "f5cf6e9d-2c9f-4e78-888c-d3ec7c7e53fb",
+    "json_file": "22 ENERGY (ru).json",
+    "total_chunks": 44
+  },
+  "22 ENERGY COMPATIBILITY (ru).txt": {
+    "document_id": "a502232e-3db7-486a-8288-2ed8bd4e38bf",
+    "json_file": "22 ENERGY COMPATIBILITY (ru).json",
+    "total_chunks": 31
+  },
+  "_ЛИЧНОЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям.txt": {
+    "document_id": "1b52b2b8-18de-4cba-a94d-d2fab4805a2c",
+    "json_file": "_ЛИЧНОЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "_СОЦИАЛЬНОЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям.txt": {
+    "document_id": "84dbbe7e-f3e1-493d-8d0e-adb4bef5ed48",
+    "json_file": "_СОЦИАЛЬНОЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "CHILDREN_S ENERGY - 01 (ru).txt": {
+    "document_id": "ba039ed5-e277-4930-acf3-690bb7d9b61b",
+    "json_file": "CHILDREN_S ENERGY - 01 (ru).json",
+    "total_chunks": 14
+  },
+  "CHILDREN_S ENERGY - 02 (ru).txt": {
+    "document_id": "64ef1bd2-f0d0-4a0a-99e0-b210efe51581",
+    "json_file": "CHILDREN_S ENERGY - 02 (ru).json",
+    "total_chunks": 14
+  },
+  "CHILDREN_S ENERGY - 03 (ru).txt": {
+    "document_id": "74f26326-d5e3-42b9-a3be-c0a62e9cb0fe",
+    "json_file": "CHILDREN_S ENERGY - 03 (ru).json",
+    "total_chunks": 38
+  },
+  "CHILDREN_S ENERGY - 04 (ru).txt": {
+    "document_id": "5a7157c6-453a-4f5b-9fc2-b789efb3c14d",
+    "json_file": "CHILDREN_S ENERGY - 04 (ru).json",
+    "total_chunks": 32
+  },
+  "CHILDREN_S ENERGY - 05 (ru).txt": {
+    "document_id": "6506a91e-38bc-4996-bb6b-0a2ed49e1033",
+    "json_file": "CHILDREN_S ENERGY - 05 (ru).json",
+    "total_chunks": 17
+  },
+  "CHILDREN_S ENERGY - 06 (ru).txt": {
+    "document_id": "ed0c6884-bbf7-48c6-8f9b-22a3a95724e4",
+    "json_file": "CHILDREN_S ENERGY - 06 (ru).json",
+    "total_chunks": 16
+  },
+  "CHILDREN_S ENERGY - 07 (ru).txt": {
+    "document_id": "43d7183c-5ae2-49f6-a360-7ffa71362b50",
+    "json_file": "CHILDREN_S ENERGY - 07 (ru).json",
+    "total_chunks": 18
+  },
+  "CHILDREN_S ENERGY - 08 (ru).txt": {
+    "document_id": "e12f4fee-c98c-44ee-9db8-906a7d420151",
+    "json_file": "CHILDREN_S ENERGY - 08 (ru).json",
+    "total_chunks": 15
+  },
+  "CHILDREN_S ENERGY - 09 (ru).txt": {
+    "document_id": "8f6829b1-ed7a-4e43-a418-2ad7796cd16d",
+    "json_file": "CHILDREN_S ENERGY - 09 (ru).json",
+    "total_chunks": 15
+  },
+  "CHILDREN_S ENERGY - 10 (ru).txt": {
+    "document_id": "4a6697fb-604f-4a35-9eba-a54cd8eb86a8",
+    "json_file": "CHILDREN_S ENERGY - 10 (ru).json",
+    "total_chunks": 18
+  },
+  "CHILDREN_S ENERGY - 11 (ru).txt": {
+    "document_id": "1a31fc54-9d34-4034-b5f9-fcc8e8bb3dbb",
+    "json_file": "CHILDREN_S ENERGY - 11 (ru).json",
+    "total_chunks": 17
+  },
+  "CHILDREN_S ENERGY - 12 (ru).txt": {
+    "document_id": "d27463b3-9fa3-4ef8-946d-f3662efa6621",
+    "json_file": "CHILDREN_S ENERGY - 12 (ru).json",
+    "total_chunks": 17
+  },
+  "CHILDREN_S ENERGY - 13 (ru).txt": {
+    "document_id": "50191441-83de-42f6-9411-46ad498103dc",
+    "json_file": "CHILDREN_S ENERGY - 13 (ru).json",
+    "total_chunks": 14
+  },
+  "CHILDREN_S ENERGY - 14 (ru).txt": {
+    "document_id": "478dd51a-e005-4afe-b42a-116d07f33fdd",
+    "json_file": "CHILDREN_S ENERGY - 14 (ru).json",
+    "total_chunks": 16
+  },
+  "CHILDREN_S ENERGY - 15 (ru).txt": {
+    "document_id": "b892729f-8452-402e-ab04-5a35bd07bc27",
+    "json_file": "CHILDREN_S ENERGY - 15 (ru).json",
+    "total_chunks": 18
+  },
+  "CHILDREN_S ENERGY - 16 (ru).txt": {
+    "document_id": "96fae850-0e8d-496a-b7f8-c5a5d798f950",
+    "json_file": "CHILDREN_S ENERGY - 16 (ru).json",
+    "total_chunks": 16
+  },
+  "CHILDREN_S ENERGY - 17 (ru).txt": {
+    "document_id": "b9270c62-2325-4083-ad12-7ae20c9a5bd0",
+    "json_file": "CHILDREN_S ENERGY - 17 (ru).json",
+    "total_chunks": 16
+  },
+  "CHILDREN_S ENERGY - 18 (ru).txt": {
+    "document_id": "9a19378c-2013-4020-a802-20ab3597db5b",
+    "json_file": "CHILDREN_S ENERGY - 18 (ru).json",
+    "total_chunks": 15
+  },
+  "CHILDREN_S ENERGY - 19 (ru).txt": {
+    "document_id": "d7e4d6bd-4198-4dc4-b950-36f775295af1",
+    "json_file": "CHILDREN_S ENERGY - 19 (ru).json",
+    "total_chunks": 17
+  },
+  "CHILDREN_S ENERGY - 20 (ru).txt": {
+    "document_id": "cc390476-f891-4fe4-a7d9-99210691ab9a",
+    "json_file": "CHILDREN_S ENERGY - 20 (ru).json",
+    "total_chunks": 16
+  },
+  "CHILDREN_S ENERGY - 21 (ru).txt": {
+    "document_id": "52c9b0fe-0134-4c0d-bd49-a4462be82cc6",
+    "json_file": "CHILDREN_S ENERGY - 21 (ru).json",
+    "total_chunks": 17
+  },
+  "CHILDREN_S ENERGY - 22 (ru).txt": {
+    "document_id": "15495d59-c0c6-45c3-9547-7d9332a8ebd4",
+    "json_file": "CHILDREN_S ENERGY - 22 (ru).json",
+    "total_chunks": 17
+  },
+  "Energy Practices - ALL ENERGIES (ru).txt": {
+    "document_id": "7cd952b5-a9cd-425b-b844-3fb93f53d2d5",
+    "json_file": "Energy Practices - ALL ENERGIES (ru).json",
+    "total_chunks": 209
+  },
+  "ENERGYs 1-9 (ru).txt": {
+    "document_id": "9568456d-cf52-44a6-baae-12edee895289",
+    "json_file": "ENERGYs 1-9 (ru).json",
+    "total_chunks": 9
+  },
+  "ENERGYs 10-17 (ru).txt": {
+    "document_id": "2eb273bb-89d5-4931-beff-6d0f5cfb7b6f",
+    "json_file": "ENERGYs 10-17 (ru).json",
+    "total_chunks": 8
+  },
+  "ENERGYs 18-22 (ru).txt": {
+    "document_id": "67f046e4-a034-4af6-903b-d92304e79712",
+    "json_file": "ENERGYs 18-22 (ru).json",
+    "total_chunks": 5
+  },
+  "Point Values (ru).txt": {
+    "document_id": "07419703-80f0-460c-bdc7-a2286efe67f6",
+    "json_file": "Point Values (ru).json",
+    "total_chunks": 18
+  },
+  "The Matrix book (ru).txt": {
+    "document_id": "24f39238-932f-4604-ab4f-cef10d9b7668",
+    "json_file": "The Matrix book (ru).json",
+    "total_chunks": 478
+  },
+  "АДЖНА -  Действия по энергиям.txt": {
+    "document_id": "82f54be5-b4de-4511-8b9c-22e3c4828ceb",
+    "json_file": "АДЖНА -  Действия по энергиям.json",
+    "total_chunks": 56
+  },
+  "АНАХАТА -  Действия по энергиям.txt": {
+    "document_id": "02e3565e-bfd6-420c-953c-35e86046d6dc",
+    "json_file": "АНАХАТА -  Действия по энергиям.json",
+    "total_chunks": 66
+  },
+  "ВЕРХНИЕ РОДОВЫЕ ЛИНИИ -  Действия по энергиям.txt": {
+    "document_id": "65fed53d-87b5-42e0-a246-30f242ad64a6",
+    "json_file": "ВЕРХНИЕ РОДОВЫЕ ЛИНИИ -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "ВИШУДХА -  Действия по энергиям.txt": {
+    "document_id": "07a7b16a-ef58-47e2-a3c1-2a1cb3602999",
+    "json_file": "ВИШУДХА -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "ВХОД В ДЕНЕЖНЫЙ КАНАЛ -  Действия по энергиям (1).txt": {
+    "document_id": "27561811-4daf-4b5c-a3e5-621e195b36d7",
+    "json_file": "ВХОД В ДЕНЕЖНЫЙ КАНАЛ -  Действия по энергиям (1).json",
+    "total_chunks": 66
+  },
+  "ВХОД В ДЕНЕЖНЫЙ КАНАЛ -  Действия по энергиям.txt": {
+    "document_id": "7116af66-82c1-4def-9ac7-9f09a7378edd",
+    "json_file": "ВХОД В ДЕНЕЖНЫЙ КАНАЛ -  Действия по энергиям.json",
+    "total_chunks": 66
+  },
+  "ВХОД В КАНАЛ ОТНОШЕНИЙ -  Действия по энергиям.txt": {
+    "document_id": "ad326f0f-8893-401a-a0ad-aff4f77af6b6",
+    "json_file": "ВХОД В КАНАЛ ОТНОШЕНИЙ -  Действия по энергиям.json",
+    "total_chunks": 57
+  },
+  "ЗАДАЧА_ЖИЗНИ_Действия_по_энергиям.txt": {
+    "document_id": "d264d41c-8076-4aea-9a56-debcd1396399",
+    "json_file": "ЗАДАЧА_ЖИЗНИ_Действия_по_энергиям.json",
+    "total_chunks": 59
+  },
+  "КАМЕНЬ ПРЕТКНОВЕНИЯ ФИНАНСОВ Действия по энергиям.txt": {
+    "document_id": "82b4dbb1-a8e0-4ded-aeda-d15349b42804",
+    "json_file": "КАМЕНЬ ПРЕТКНОВЕНИЯ ФИНАНСОВ Действия по энергиям.json",
+    "total_chunks": 66
+  },
+  "КОМФОРТ Действия по энергиям.txt": {
+    "document_id": "61161f91-d3c3-4700-a1df-dedccf0fb6ac",
+    "json_file": "КОМФОРТ Действия по энергиям.json",
+    "total_chunks": 48
+  },
+  "ЛИНИЯ НЕБА -  Действия по энергиям.txt": {
+    "document_id": "e2a54b64-da71-44b1-b6a6-d8a138b74f5a",
+    "json_file": "ЛИНИЯ НЕБА -  Действия по энергиям.json",
+    "total_chunks": 58
+  },
+  "НИЖНИЕ РОДОВЫЕ ЛИНИИ -  Действия по энергиям.txt": {
+    "document_id": "fb460739-4525-46e5-86f6-e20c0f2ac4c8",
+    "json_file": "НИЖНИЕ РОДОВЫЕ ЛИНИИ -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "ОБЩЕЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям .txt": {
+    "document_id": "9814df4d-ebd2-4633-9c42-99a33a53aea9",
+    "json_file": "ОБЩЕЕ ПРЕДНАЗНАЧЕНИЕ -  Действия по энергиям .json",
+    "total_chunks": 59
+  },
+  "ПРОРАБОТКА Действия по энергиям.txt": {
+    "document_id": "70d2fb21-d6ec-4197-b0ff-894d2cca4baa",
+    "json_file": "ПРОРАБОТКА Действия по энергиям.json",
+    "total_chunks": 57
+  },
+  "РЕСУРС Действия по энергиям.txt": {
+    "document_id": "d0a6b46a-4b71-405c-b64a-9f392ecc11d4",
+    "json_file": "РЕСУРС Действия по энергиям.json",
+    "total_chunks": 49
+  },
+  "РОДОВЫЕ ЭНЕРГИИ -  Действия по энергиям.txt": {
+    "document_id": "b2e7f3d3-4d04-46b1-98b1-0bbd772ce8ca",
+    "json_file": "РОДОВЫЕ ЭНЕРГИИ -  Действия по энергиям.json",
+    "total_chunks": 60
+  },
+  "ТАЛАНТ Действия по энергиям.txt": {
+    "document_id": "5024a7c9-6725-47bb-8a3f-6daf22df5297",
+    "json_file": "ТАЛАНТ Действия по энергиям.json",
+    "total_chunks": 24
+  },
+  "ТОЧКА БАЛАНСА -  Действия по энергиям.txt": {
+    "document_id": "c7829cfd-2625-4f40-9d8a-ac43115e4aa5",
+    "json_file": "ТОЧКА БАЛАНСА -  Действия по энергиям.json",
+    "total_chunks": 53
+  },
+  "ЭНЕРГИЯ БЛАГОПОЛУЧИЯ -  Действия по энергиям.txt": {
+    "document_id": "9ddca602-1504-4949-a816-5d2d9726f26c",
+    "json_file": "ЭНЕРГИЯ БЛАГОПОЛУЧИЯ -  Действия по энергиям.json",
+    "total_chunks": 66
+  },
+  "ЭНЕРГИЯ ДЕНЕЖНОГО КАНАЛА - Действия по энергиям.txt": {
+    "document_id": "56d0bc72-94ea-4bae-acb8-405ebc1ffd4f",
+    "json_file": "ЭНЕРГИЯ ДЕНЕЖНОГО КАНАЛА - Действия по энергиям.json",
+    "total_chunks": 66
+  }
+}
