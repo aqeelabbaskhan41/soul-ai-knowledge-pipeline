@@ -1,4 +1,11 @@
 myenv
 documents/
 .env
+<<<<<<< HEAD
 .v2_copy.env
+=======
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+>>>>>>> 9fdea9c592cd8a9e3ea222d8819bce7860ab5adb
